@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Unassigned Critical Tasks</name>
+        <query_condition table="wm_task">priorityIN1,2^assigned_toISEMPTY^state=10<item endquery="false" field="priority" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="10"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 19:39:46</sys_created_on>
+        <sys_id>c9528e537d0173007f447242e9a2cc8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unassigned Critical Tasks</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_data_item_c9528e537d0173007f447242e9a2cc8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 19:39:46</sys_updated_on>
+        <table>wm_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9528e537d0173007f447242e9a2cc8c"/>
+</record_update>

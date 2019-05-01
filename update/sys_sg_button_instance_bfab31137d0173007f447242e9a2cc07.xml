@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Take Action on Asset">ec19b1df7dcd33007f447242e9a2cc74</button>
+        <description/>
+        <field_name/>
+        <label>Update Asset State</label>
+        <location>trailing_swipe</location>
+        <name>Update Asset State</name>
+        <order>1</order>
+        <parent>0ce8a19b7dcd33007f447242e9a2cce3</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 19:10:44</sys_created_on>
+        <sys_id>bfab31137d0173007f447242e9a2cc07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Asset State</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_button_instance_bfab31137d0173007f447242e9a2cc07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 19:10:44</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=bfab31137d0173007f447242e9a2cc07"/>
+</record_update>

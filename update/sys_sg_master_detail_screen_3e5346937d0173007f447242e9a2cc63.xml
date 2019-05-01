@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Unassigned Critical Tasks">c9528e537d0173007f447242e9a2cc8c</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">7653c2937d0173007f447242e9a2cc44</icon>
+        <name>Unassigned Critical Tasks</name>
+        <order>30</order>
+        <parent>4ef3e5d77dcd33007f447242e9a2cc05</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 19:44:15</sys_created_on>
+        <sys_id>3e5346937d0173007f447242e9a2cc63</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Unassigned Critical Tasks</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_3e5346937d0173007f447242e9a2cc63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:04:59</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e5346937d0173007f447242e9a2cc63"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f279","FontColor":"#293E40","BackgroundColor":"#293E40","Name":"map"}</icon>
+        <name>map</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 17:35:37</sys_created_on>
+        <sys_id>5ae52d1b7dcd33007f447242e9a2cc34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>map</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_icon_5ae52d1b7dcd33007f447242e9a2cc34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 17:35:37</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

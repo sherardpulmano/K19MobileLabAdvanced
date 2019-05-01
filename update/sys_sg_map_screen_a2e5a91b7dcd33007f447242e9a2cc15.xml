@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Critical Map Tasks">1094e5d77dcd33007f447242e9a2cc0a</data_item>
+        <data_item_table>wm_task</data_item_table>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="map">5ae52d1b7dcd33007f447242e9a2cc34</icon>
+        <info>state</info>
+        <location>location</location>
+        <name>Critical Map Tasks</name>
+        <order>10</order>
+        <parent>4ef3e5d77dcd33007f447242e9a2cc05</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <phone>company.phone</phone>
+        <pin_color>#FF0000</pin_color>
+        <pin_color_type>default</pin_color_type>
+        <roles_override/>
+        <sub_title>short_description</sub_title>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 17:35:37</sys_created_on>
+        <sys_id>a2e5a91b7dcd33007f447242e9a2cc15</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Critical Map Tasks</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_map_screen_a2e5a91b7dcd33007f447242e9a2cc15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 20:05:08</sys_updated_on>
+        <tag>number</tag>
+        <tag_background_color>#7d8a8c</tag_background_color>
+        <tag_font_color>#ffffff</tag_font_color>
+        <tag_style/>
+        <title>priority</title>
+    </sys_sg_map_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a2e5a91b7dcd33007f447242e9a2cc15"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Assets by QR">7f07ad1b7dcd33007f447242e9a2cc59</data_item>
+        <dependency_fields>asset_tag,install_status,model,quantity,sys_class_name</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","Text":"","CellId":"asset_tag","TextColor":"#293e40","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14},"Margin":{}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"Margin":{},"studio_template_field_id":"E2","Text":"","TextColor":"#4F5966","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"bold","Size":14},"CellId":"install_status"}]}]},{"Type":"Text","Margin":{"Top":11},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Size":18,"Weight":"medium"},"Text":"","CellId":"model"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":13},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":12},"Text":"","studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"CellId":"quantity"},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"Text":"","TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"}},{"Type":"Text","Margin":{},"studio_template_field_id":"E5","Text":"","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"sys_class_name"}]}]}],"studio_card_id":"afd7949973812300d396c8168bf6a75e"}</item_view_json>
+        <name>Asset QR Lookup item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 17:48:33</sys_created_on>
+        <sys_id>08e8a95b7dcd33007f447242e9a2cc9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset QR Lookup item view</sys_name>
+        <sys_package display_value="K19 Mobile App" source="x_snc_k19_mobile_a">5b83e5d77dcd33007f447242e9a2cc92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Mobile App">5b83e5d77dcd33007f447242e9a2cc92</sys_scope>
+        <sys_update_name>sys_sg_item_view_08e8a95b7dcd33007f447242e9a2cc9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 17:48:33</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=08e8a95b7dcd33007f447242e9a2cc9f"/>
+</record_update>
